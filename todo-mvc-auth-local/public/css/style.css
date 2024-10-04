@@ -1,0 +1,15 @@
+@import "tailwind/base";
+@import "tailwind/components";
+@import "tailwind/utilities";
+
+h1{
+    color: red;
+}
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
+.not{
+    text-decoration: underline;
+}
+
